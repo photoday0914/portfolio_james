@@ -1,7 +1,7 @@
 import s from "./IntroSection.module.scss";
 // import avatar from "../../../assets/photo.png";
 import { SiGmail } from "react-icons/si";
-import { FaLinkedinIn } from "react-icons/fa";
+// import { FaLinkedinIn } from "react-icons/fa";
 // import Tilt from "react-parallax-tilt";
 // import { LazyLoadImage } from "react-lazy-load-image-component";
 
