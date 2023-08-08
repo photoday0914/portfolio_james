@@ -1,0 +1,52 @@
+{
+  "name": "react-portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emailjs/browser": "^3.6.2",
+    "bootstrap": "^5.2.0",
+    "chokidar": "^3.5.3",
+    "classnames": "^2.3.1",
+    "modern-normalize": "^1.1.0",
+    "npm": "^7.20.0",
+    "react": "^17.0.2",
+    "react-bootstrap": "^2.5.0",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.2.0",
+    "react-lazy-load-image-component": "^1.5.1",
+    "react-media": "^1.10.0",
+    "react-parallax-tilt": "^1.5.22",
+    "react-particles-js": "^3.4.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "react-tilty": "^2.0.3",
+    "react-transition-group": "^4.4.2",
+    "sass": "^1.57.1",
+    "typewriter-effect": "^2.17.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "serve": "serve -s build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
