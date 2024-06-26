@@ -22,7 +22,7 @@ const Resume = () => {
             <br />
             <p className={s.smallText} style={{textAlign:"left"}}>PHONE NUMBER : +1 (805) 214-8119</p>
             <br />      
-            <p className={s.smallText} style={{textAlign:"left"}}>EMAIL ID : jamesbr0710@outlook.com</p>
+            <p className={s.smallText} style={{textAlign:"left"}}>EMAIL ID : jameskelly93626@gmail.com</p>
             <br />
             <div>
               <p className={s.smallText} style={{textAlign:"left"}}>LOCATION : Remote</p>              

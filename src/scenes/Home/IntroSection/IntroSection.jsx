@@ -16,22 +16,26 @@ const IntroSection = () => {
 
           <div className={s.description}>
             <p>
-              I am a dedicated full-stack web developer with 10+ years of
-              experience <br />
-              building
+            I am a highly skilled and results-driven               
               <i>
-                <b className={s.purple}> Web&Mobile Applications.</b>
+                <b className={s.purple}> Web&Mobile developer </b>
               </i>
+              with 12 years of experience in <br />
+            designing, developing, and maintaining web applications. 
+            <br />
+            Proficient in both front-end and back-end technologies,
+            
+            I specialize in creating user-friendly, <br />responsive, and scalable solutions.  
             </p>
 
             <p>
               
-              And I also have an excellent coding and testing ability ensuring optimal 
-              <br />              
+            I excel at collaborating with cross-functional teams to 
+              
               <i>
                 <b className={s.purple}>
                   {" "}
-                  functionality, quality, and reliability.
+                  deliver projects on time and within budget.
                 </b>
               </i>
             </p>
@@ -51,7 +55,7 @@ const IntroSection = () => {
         <ul className={s.socialLinks}>
           <li className={s.socialLink}>
             <a
-              href="mailto:jameswn0710@gmail.com"
+              href="mailto:jameskelly93626@gmail.com"
               target="_blank"
               rel="noreferrer"
               className={s.socialIcon}
