@@ -1,52 +1,55 @@
-import clearscore from "../assets/clearscore.png";
+import realestate from "../assets/EstateIn Real Estate.png";
 import dogepound from "../assets/dogepound.png";
-import dxdy from "../assets/dxdy.png";
-import fooddelivery from "../assets/fooddelivery.png";
+import sportzag from "../assets/sportzag.png"
+import freegameshub from "../assets/Free Games Hub.png";
+import perfume from "../assets/Perfume.png";
 import mellow from "../assets/mellow.png";
-import tourist from "../assets/tourist.png";
+// import tourist from "../assets/tourist.png";
 
 export const PROJECTS = [
   {
     id: "1",
-    title: "The Doge Pound",
+    title: "Sportzag",
     description:
-      "Doge Pound Studios is a gaming studio established by the teams behind The Doge Pound and Deez NFT.",
+      "SPORTZAG is a free-to-play, non-gambling fan engagement website that does not require a monetary investment to engage in virtual game play.",
     image: {
-      src: dogepound,
+      src: sportzag,
       placeholderSrc: "There is only one image.",
     },
     links: {
-      site: "https://thedogepoundnft.com/",
+      site: "https://sportzag.com/",
     },
-    technologies: ["#React", "#Solidity", "#Ether.js"],
+    technologies: ["#React", "#Laravel", "#Videa Streaming"],
   },
   {
     id: "2",
-    title: "DXDY",
+    title: "EstateIn Real Estate",
     description:
-      "dYdX (DYDX) is a decentralized exchange platform for crypto currency margin trading for assets like BTC, ETH, SOL, DOT, and more.",
+      "Your journey to finding the perfect property begins here. Explore our listings to find the home that matches your dreams.",
     image: {
-      src: dxdy,
+      src: realestate,
       placeholderSrc: "There is only one image.",
     },
     links: {
-      site: "https://dydx.exchange/",
+      site: "https://real-estate-business-website.vercel.app/",
+      repo: "https://github.com/photoday0914/EstateIn-Real-Estate",
     },
-    technologies: ["#Next.js", "#Redux", "#Solidity", "#Hardhat"],
+    technologies: ["#React", "#Redux", "#MongoDB"],
   },
   {
     id: "3",
-    title: "Clear Score",
+    title: "Free Games Hub",
     description:
-      "ClearScore is the first company in the United Kingdom to provide free credit scores and reports, along with advice to help consumers make better financial decisions.",
+      "Embark on a quest for the best free-to-play thrills! Discover diverse digital realms, each offering exciting adventures. Unleash the ultimate gaming experiences and let the quest begin!",
     image: {
-      src: clearscore,
+      src: freegameshub,
       placeholderSrc: "There is only one image.",
     },
     links: {
-      site: "https://www.clearscore.com/",
+      site: "https://www.freegameshub.fun/",
+      repo: "https://github.com/photoday0914/Free-Games-Hub",
     },
-    technologies: ["#React", "#Redux", "#Node.js"],
+    technologies: ["#Laravel", "#VueJS", "#MySQL"],
   },
   {
     id: "4",
@@ -64,30 +67,31 @@ export const PROJECTS = [
   },
   {
     id: "5",
-    title: "Tourist",
+    title: "The Doge Pound",
     description:
-      "We are World Nomads like you, travel is in our blood and exploring is our way of life.",
+      "Doge Pound Studios is a gaming studio established by the teams behind The Doge Pound and Deez NFT.",
     image: {
-      src: tourist,
+      src: dogepound,
       placeholderSrc: "There is only one image.",
     },
     links: {
-      site: "#",
+      site: "https://thedogepoundnft.com/",
     },
-    technologies: ["#Vue.js", "#Vuetify", "#Node.js"],
+    technologies: ["#React", "#Solidity", "#Ether.js"],
   },
   {
     id: "6",
-    title: "Food Delivery",
+    title: "Perfume",
     description:
-      "Food, coffee, atmosphere, customer service - we strive to provide an experience for you that will exceed your expectations.",
+      "Find your favorite perfume or accentuate your style with a new scent from a top fragrance brand.",
     image: {
-      src: fooddelivery,
+      src: perfume,
       placeholderSrc: "There is only one image.",
     },
     links: {
-      site: "#",
+      site: "https://perfuma.netlify.app/",
+      repo: "https://github.com/photoday0914/Perfume",
     },
-    technologies: ["#Laravel", "#Bootstrap"],
+    technologies: ["#Wordpress", "#Bootstrap"],
   },
 ];

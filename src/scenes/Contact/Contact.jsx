@@ -20,7 +20,7 @@ const Resume = () => {
             </p>
             <br />
             <br />
-            <p className={s.smallText} style={{textAlign:"left"}}>PHONE NUMBER : +1 (805) 214-8119</p>
+            <p className={s.smallText} style={{textAlign:"left"}}>PHONE NUMBER : +1 (408) 256-2632</p>
             <br />      
             <p className={s.smallText} style={{textAlign:"left"}}>EMAIL ID : jameskelly93626@gmail.com</p>
             <br />
@@ -30,7 +30,7 @@ const Resume = () => {
               <Button
                 style={{ margin: "auto", width: "15rem" }}
                 className="primary"
-                href="https://www.google.com/maps/place/Fort+Pierce,+FL/@27.4294654,-80.3745783,13z/data=!3m1!4b1!4m5!3m4!1s0x88def19fa227b5f1:0xf08617c49b8867ae!8m2!3d27.4467056!4d-80.3256056"
+                href="https://www.google.com/maps/place/Phibsborough,+Dublin,+Ireland/@53.3617655,-6.2826566,15z/data=!3m1!4b1!4m6!3m5!1s0x48670dd46b325a31:0x2600c7a7bb391652!8m2!3d53.3608095!4d-6.2726952!16zL20vMDVsMmJx?entry=ttu"
                 target="_blank"
               >
                 View On Google Maps

@@ -52,14 +52,14 @@ const ModalProjectCard = () => {
             <BiLinkExternal /> &nbsp; View project
           </Button>
 
-          {/* <Button
+          {links.repo ? <Button
             style={{ width: '12rem' }}
             className="primary"
             href={links.repo}
             target="_blank"
           >
             <BiLinkExternal /> &nbsp; Know more
-          </Button> */}
+          </Button> : null}
         </div>
       </div>
     </Modal>

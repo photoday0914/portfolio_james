@@ -1,9 +1,9 @@
 import s from "./IntroSection.module.scss";
-// import avatar from "../../../assets/photo.png";
+import avatar from "../../../assets/photo.png";
 import { SiGmail } from "react-icons/si";
 // import { FaLinkedinIn } from "react-icons/fa";
-// import Tilt from "react-parallax-tilt";
-// import { LazyLoadImage } from "react-lazy-load-image-component";
+import Tilt from "react-parallax-tilt";
+import { LazyLoadImage } from "react-lazy-load-image-component";
 
 const IntroSection = () => {
   return (
@@ -42,9 +42,9 @@ const IntroSection = () => {
           </div>
         </div>
 
-        {/* <Tilt trackOnWindow={true}>
+        <Tilt trackOnWindow={true}>
           <LazyLoadImage alt="avatar" effect="blur" src={avatar} width={300} />
-        </Tilt> */}
+        </Tilt>
       </div>
 
       <div className={s.introSocial}>

@@ -22,7 +22,7 @@ const About = () => {
             <Button
               style={{ margin: "auto", width: "15rem" }}
               className="primary"
-              href="https://drive.google.com/file/d/1HxN_FaNmbxpJc-SyJRoUSYGIbVzJFkNa/view?usp=sharing"
+              href="https://drive.google.com/file/d/1LoQ8YWWQt68m82MjDrHxOQf2PO7ZHSc0/view?usp=sharing"
               target="_blank"
             >
               View My Resume
